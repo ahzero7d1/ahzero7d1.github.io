@@ -1,2 +1,1 @@
-alert(1234);
-alert(document.cookie);
+<script> alert(document.cookie); </script>
